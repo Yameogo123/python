@@ -8,4 +8,6 @@
 Lancer TP1 pour executer le script test créé
 
 Une liste de package est à installer:
+-unicodedata
+-pptx
 -
