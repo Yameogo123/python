@@ -1,13 +1,14 @@
 # python
 
+<b>STAGE A KANGAM LABS</b>
 
-#STAGE A KANGAM LABS
+Projet en IA de tri de CV.</br>
 
-#Projet en IA de tri de CV.
+Lancer TP1 pour executer le script test créé.</br>
 
-Lancer TP1 pour executer le script test créé
+Une liste de package est à installer:</br>
 
-Une liste de package est à installer:
--unicodedata
--pptx
--
+- unicodedata
+- pptx
+- pyttsx3
+- speech_recognition
